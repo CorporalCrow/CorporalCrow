@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Brawl Legend and StudyApp
+- 🔭 I’m currently working on Brawl Legend
 - 🌱 I’m currently learning Computer Science
 - 🤔 I’m looking for help with Brawl Legend
 - 📫 How to reach me: dm wlraven on Discord
