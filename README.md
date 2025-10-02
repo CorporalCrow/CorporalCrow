@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Brawl Legend
 - 🌱 I’m currently learning Computer Science
-- 🤔 I’m looking for help with Brawl Legend
+- 🤔 I’m not looking for help
 - 📫 How to reach me: dm wlraven on Discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like sushi
